@@ -14,13 +14,13 @@ Clone or Download [this repository](https://github.com/Laguna1/Bubble-Sort.git) 
 
 ## Authors
 
-👤 **Author**
+👤 **Erkin Sheraliev**
 
 - GitHub:[@github/3rkeen](https://github.com/3rkeen)
 - Twitter:[@twitter/3rkeen](https://twitter.com/3rkeen)
 - Linkedin:[linkedin/ErkinSheraliev](https://www.linkedin.com/in/erkin-sheraliev-9122631a0/)
 
-👤 **Author**
+👤 **Oksana Petrova**
 
 - GitHub:[@github/Laguna1](https://github.com/Laguna1)
 - Linkedin:[linkedin/OksanaPetrova](https://www.linkedin.com/in/oksana-petrova-005bb0145/)
