@@ -1,17 +1,16 @@
-def bubble_sort(my_array)
+def bubble_sort my_array
     n = my_array.length
-swapped = true
-for i in 0...n-1 
-    swapped = false
-    for j in 0...n-i-1
-        if my_array[j] > my_array[j+1]
-            my_array[j], my_array[j+1] = my_array[j+1], my_array[j]
-            swapped = true
-        end
+    swap = true
+    while swap
+        swap = false
+            (n - 1).times do |index|
+                if my_array[index] > my_array[index + 1]
+                    my_array[index], my_array[index + 1] = my_array[index + 1], my_array[index]
+                    swap = true
+                end
+            end
     end
-    break if swapped == false
- end
- return my_array
+    return my_array
 end
 
-puts bubble_sort([4,3,78,2,0,2])
+puts bubble_sort([4, 3, 78, 2, 0, 2])    
